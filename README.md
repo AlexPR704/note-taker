@@ -17,7 +17,7 @@ Kudos to our activities in class to help lead the way in this application. Also 
 ## Submission on BCS
 
 * https://alexpr704.github.io/note-taker/
-* 
+* Deployed App: https://shielded-atoll-32702.herokuapp.com/
 
 ## License
 MIT License
