@@ -4,9 +4,9 @@
 
 This app can be used to write, save, and delete notes. It is perfect for any user having a hard time to organize their thoughts and keep track of tasks that need to be completed.
 
-![screenshot of the app]()
+![screenshot of the app](Images/app.png)
 
-![screenshot of the code]()
+![screenshot of the code](Images/gif.gif)
 
 
 
@@ -16,7 +16,7 @@ Kudos to our activities in class to help lead the way in this application. Also 
 
 ## Submission on BCS
 
-* 
+* https://alexpr704.github.io/note-taker/
 * 
 
 ## License
